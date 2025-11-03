@@ -1,4 +1,6 @@
-# Hola 👋, soy [Tu Nombre]
+![Hernan Banner](./imagen.png)
+
+# Hola 👋, soy Hernan Peñaranda
 
 ### Sobre mí
 
