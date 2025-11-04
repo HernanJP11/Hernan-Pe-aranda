@@ -1,4 +1,4 @@
-![Hernan Banner](./imagen.png)
+![Hernan Banner](./banner.png)
 
 # Hola 👋, soy Hernan Peñaranda
 
